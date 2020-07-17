@@ -4,4 +4,14 @@ margin-left: 50px;
 
 }
 
+footer{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+button{
+    margin: 20px;
+    background-color: transparent;
+    border: none;
+}
 
